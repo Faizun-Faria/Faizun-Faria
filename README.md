@@ -8,7 +8,13 @@
       <th><a href="https://github.com/Faizun-Faria" target="_blank"><img alt="GitHub" src="https://github.com/Faizun-Faria/Faizun-Faria/tree/main/Files/github.svg" title="GitHub" height="32" width="32"></a></th>
     </tr>
     <tr>
+      <th><a href="https://www.linkedin.com/in/faizun-faria/" target="_blank"><img alt="Linkedin" src="https://github.com/Faizun-Faria/Faizun-Faria/blob/main/Files/linkedin.svg" title="Linkedin" height="32" width="32"></a></th>
+    </tr>
+    <tr>
       <th><a href="https://www.facebook.com/Faizun.faria" target="_blank"><img alt="Facebook" src="https://github.com/Faizun-Faria/Faizun-Faria/blob/main/Files/facebook.svg" title="Facebook" height="32" width="32"></a></th>
+    </tr>
+    <tr>
+      <th><a href="https://stackoverflow.com/users/12191194/faizun-faria" target="_blank"><img alt="Stack Overflow" src="https://github.com/Faizun-Faria/Faizun-Faria/blob/main/Files/stackoverflow.svg" title="Stack Overflow" height="32" width="32"></a></th>
     </tr>
 </table>
 <!--

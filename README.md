@@ -5,7 +5,10 @@
       <th><a href="mailto:faizunfaria0@gmail.com" target="_blank"><img alt="mail" src="https://github.com/Faizun-Faria/Faizun-Faria/blob/main/Files/mail.svg" title="Gmail" width="32" height="32" /></a></th>
     </tr>
     <tr>
-      <th><a href="https://github.com/Faizun-Faria" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/Faizun-Faria/Faizun-Faria/tree/main/Files/github.svg"></a></th>
+      <th><a href="https://github.com/Faizun-Faria" target="_blank"><img alt="GitHub" src="https://github.com/Faizun-Faria/Faizun-Faria/tree/main/Files/github.svg" title="GitHub" height="32" width="32"></a></th>
+    </tr>
+    <tr>
+      <th><a href="https://www.facebook.com/Faizun.faria" target="_blank"><img alt="Facebook" src="https://github.com/Faizun-Faria/Faizun-Faria/blob/main/Files/facebook.svg" title="Facebook" height="32" width="32"></a></th>
     </tr>
 </table>
 <!--

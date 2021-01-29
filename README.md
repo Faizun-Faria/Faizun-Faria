@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-      <th><a href="mailto:faizunfaria0@gmail.com" target="_blank"><img alt="Gmail" src="https://github.com/Faizun-Faria/Faizun-Faria/new/main/Files/mail.svg" title="Gmail" width="32" height="32" /></a></th>
+      <th><a href="mailto:faizunfaria0@gmail.com" target="_blank"><img alt="mail" src="https://github.com/Faizun-Faria/Faizun-Faria/new/main/Files/mail.svg" title="Gmail" width="32" height="32" /></a></th>
     </tr>
 </table>
 <!--
